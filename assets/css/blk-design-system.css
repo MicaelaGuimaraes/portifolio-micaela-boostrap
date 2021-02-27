@@ -189,7 +189,7 @@ sup {
 }
 
 a {
-  color: #e14eca;
+  color: #754ee1;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
@@ -16903,7 +16903,6 @@ textarea.form-control:active {
 .landing-page,
 .profile-page,
 .register-page {
-  background-image: url("assets/img/dots.png");
   background-size: contain;
 }
 
