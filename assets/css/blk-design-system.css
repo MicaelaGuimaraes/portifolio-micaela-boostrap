@@ -16536,7 +16536,7 @@ textarea.form-control:active {
 
 .landing-page .section:nth-of-type(2) .path {
   left: auto;
-  right: -250px;
+  right: 0px;
   max-width: 70%;
   top: 0;
 }
@@ -16948,7 +16948,7 @@ textarea.form-control:active {
 
 @media (min-width: 768px) {
   .info:first-of-type {
-    padding-top: 60%;
+    padding-top: 28%;
   }
 }
 
